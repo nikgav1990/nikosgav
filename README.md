@@ -19,7 +19,7 @@ This web application is using :
 ### Support 
 if you have any questions contact me at *nikosgavalas1990@gmail.com*
 
-###Contributing
+### Contributing
 
 Open for contributions
 
