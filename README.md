@@ -23,3 +23,7 @@ if you have any questions contact me at *nikosgavalas1990@gmail.com*
 
 Open for contributions
 
+### License
+
+[MIT License](https://github.com/nikosgav/Warehouse-management/blob/master/LICENSE)
+
